@@ -11,6 +11,8 @@ ignorePaths:
   - "flake.lock"
   - "justfile"
   - "cspell.yaml"
+  - "input.txt"
 words:
   - haras
   - itertools
+  - dont
